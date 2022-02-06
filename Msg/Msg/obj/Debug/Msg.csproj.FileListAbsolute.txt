@@ -1,0 +1,10 @@
+C:\Users\cfeli\source\repos\Msg\Msg\bin\Debug\Msg.exe.config
+C:\Users\cfeli\source\repos\Msg\Msg\bin\Debug\Msg.exe
+C:\Users\cfeli\source\repos\Msg\Msg\bin\Debug\Msg.pdb
+C:\Users\cfeli\source\repos\Msg\Msg\obj\Debug\Msg.csproj.AssemblyReference.cache
+C:\Users\cfeli\source\repos\Msg\Msg\obj\Debug\Msg.Form1.resources
+C:\Users\cfeli\source\repos\Msg\Msg\obj\Debug\Msg.Properties.Resources.resources
+C:\Users\cfeli\source\repos\Msg\Msg\obj\Debug\Msg.csproj.GenerateResource.cache
+C:\Users\cfeli\source\repos\Msg\Msg\obj\Debug\Msg.csproj.CoreCompileInputs.cache
+C:\Users\cfeli\source\repos\Msg\Msg\obj\Debug\Msg.exe
+C:\Users\cfeli\source\repos\Msg\Msg\obj\Debug\Msg.pdb

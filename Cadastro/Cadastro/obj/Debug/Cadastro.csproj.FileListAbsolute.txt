@@ -1,0 +1,12 @@
+C:\Users\cfeli\source\repos\Cadastro\Cadastro\bin\Debug\Cadastro.exe.config
+C:\Users\cfeli\source\repos\Cadastro\Cadastro\bin\Debug\Cadastro.exe
+C:\Users\cfeli\source\repos\Cadastro\Cadastro\bin\Debug\Cadastro.pdb
+C:\Users\cfeli\source\repos\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.AssemblyReference.cache
+C:\Users\cfeli\source\repos\Cadastro\Cadastro\obj\Debug\Cadastro.Form1.resources
+C:\Users\cfeli\source\repos\Cadastro\Cadastro\obj\Debug\Cadastro.Properties.Resources.resources
+C:\Users\cfeli\source\repos\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.GenerateResource.cache
+C:\Users\cfeli\source\repos\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\cfeli\source\repos\Cadastro\Cadastro\obj\Debug\Cadastro.exe
+C:\Users\cfeli\source\repos\Cadastro\Cadastro\obj\Debug\Cadastro.pdb
+C:\Users\cfeli\source\repos\Cadastro\Cadastro\bin\Debug\Aula.mdf
+C:\Users\cfeli\source\repos\Cadastro\Cadastro\bin\Debug\Aula_log.ldf

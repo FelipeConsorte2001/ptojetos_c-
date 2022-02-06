@@ -1,0 +1,15 @@
+C:\Users\cfeli\source\repos\TrabalhoEmSala\TrabalhoEmSala\bin\Debug\TrabalhoEmSala.exe.config
+C:\Users\cfeli\source\repos\TrabalhoEmSala\TrabalhoEmSala\bin\Debug\TrabalhoEmSala.exe
+C:\Users\cfeli\source\repos\TrabalhoEmSala\TrabalhoEmSala\bin\Debug\TrabalhoEmSala.pdb
+C:\Users\cfeli\source\repos\TrabalhoEmSala\TrabalhoEmSala\obj\Debug\TrabalhoEmSala.csproj.AssemblyReference.cache
+C:\Users\cfeli\source\repos\TrabalhoEmSala\TrabalhoEmSala\obj\Debug\TrabalhoEmSala.Consulta.resources
+C:\Users\cfeli\source\repos\TrabalhoEmSala\TrabalhoEmSala\obj\Debug\TrabalhoEmSala.Properties.Resources.resources
+C:\Users\cfeli\source\repos\TrabalhoEmSala\TrabalhoEmSala\obj\Debug\TrabalhoEmSala.csproj.GenerateResource.cache
+C:\Users\cfeli\source\repos\TrabalhoEmSala\TrabalhoEmSala\obj\Debug\TrabalhoEmSala.csproj.CoreCompileInputs.cache
+C:\Users\cfeli\source\repos\TrabalhoEmSala\TrabalhoEmSala\obj\Debug\TrabalhoEmSala.exe
+C:\Users\cfeli\source\repos\TrabalhoEmSala\TrabalhoEmSala\obj\Debug\TrabalhoEmSala.pdb
+C:\Users\cfeli\source\repos\TrabalhoEmSala\TrabalhoEmSala\obj\Debug\TrabalhoEmSala.Form1.resources
+C:\Users\cfeli\source\repos\TrabalhoEmSala\TrabalhoEmSala\bin\Debug\Database1.mdf
+C:\Users\cfeli\source\repos\TrabalhoEmSala\TrabalhoEmSala\bin\Debug\Database1_log.ldf
+C:\Users\cfeli\source\repos\TrabalhoEmSala\TrabalhoEmSala\obj\Debug\TrabalhoEmSala.Inclusao.resources
+C:\Users\cfeli\source\repos\TrabalhoEmSala\TrabalhoEmSala\obj\Debug\TrabalhoEmSala.Sobre.resources

@@ -1,0 +1,14 @@
+C:\Users\cfeli\source\repos\Consultorio\Consultorio\bin\Debug\Consultorio.mdf
+C:\Users\cfeli\source\repos\Consultorio\Consultorio\bin\Debug\Consultorio_log.ldf
+C:\Users\cfeli\source\repos\Consultorio\Consultorio\bin\Debug\Consultorio.exe.config
+C:\Users\cfeli\source\repos\Consultorio\Consultorio\bin\Debug\Consultorio.exe
+C:\Users\cfeli\source\repos\Consultorio\Consultorio\bin\Debug\Consultorio.pdb
+C:\Users\cfeli\source\repos\Consultorio\Consultorio\obj\Debug\Consultorio.csproj.AssemblyReference.cache
+C:\Users\cfeli\source\repos\Consultorio\Consultorio\obj\Debug\Consultorio.Form1.resources
+C:\Users\cfeli\source\repos\Consultorio\Consultorio\obj\Debug\Consultorio.frmPacientes.resources
+C:\Users\cfeli\source\repos\Consultorio\Consultorio\obj\Debug\Consultorio.Properties.Resources.resources
+C:\Users\cfeli\source\repos\Consultorio\Consultorio\obj\Debug\Consultorio.csproj.GenerateResource.cache
+C:\Users\cfeli\source\repos\Consultorio\Consultorio\obj\Debug\Consultorio.csproj.CoreCompileInputs.cache
+C:\Users\cfeli\source\repos\Consultorio\Consultorio\obj\Debug\Consultorio.exe
+C:\Users\cfeli\source\repos\Consultorio\Consultorio\obj\Debug\Consultorio.pdb
+C:\Users\cfeli\source\repos\Consultorio\Consultorio\obj\Debug\Consultorio.frmAgendamento.resources

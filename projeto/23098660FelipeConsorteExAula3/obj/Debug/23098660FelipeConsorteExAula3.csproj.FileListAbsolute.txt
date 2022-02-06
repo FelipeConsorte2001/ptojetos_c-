@@ -1,0 +1,13 @@
+C:\Users\cfeli\source\repos\23098660FelipeConsorteExAula3\23098660FelipeConsorteExAula3\bin\Debug\23098660FelipeConsorteExAula3.exe.config
+C:\Users\cfeli\source\repos\23098660FelipeConsorteExAula3\23098660FelipeConsorteExAula3\bin\Debug\23098660FelipeConsorteExAula3.exe
+C:\Users\cfeli\source\repos\23098660FelipeConsorteExAula3\23098660FelipeConsorteExAula3\bin\Debug\23098660FelipeConsorteExAula3.pdb
+C:\Users\cfeli\source\repos\23098660FelipeConsorteExAula3\23098660FelipeConsorteExAula3\obj\Debug\23098660FelipeConsorteExAula3.csproj.AssemblyReference.cache
+C:\Users\cfeli\source\repos\23098660FelipeConsorteExAula3\23098660FelipeConsorteExAula3\obj\Debug\_23098660FelipeConsorteExAula3.Form1.resources
+C:\Users\cfeli\source\repos\23098660FelipeConsorteExAula3\23098660FelipeConsorteExAula3\obj\Debug\_23098660FelipeConsorteExAula3.Properties.Resources.resources
+C:\Users\cfeli\source\repos\23098660FelipeConsorteExAula3\23098660FelipeConsorteExAula3\obj\Debug\23098660FelipeConsorteExAula3.csproj.GenerateResource.cache
+C:\Users\cfeli\source\repos\23098660FelipeConsorteExAula3\23098660FelipeConsorteExAula3\obj\Debug\23098660FelipeConsorteExAula3.csproj.CoreCompileInputs.cache
+C:\Users\cfeli\source\repos\23098660FelipeConsorteExAula3\23098660FelipeConsorteExAula3\obj\Debug\23098660FelipeConsorteExAula3.exe
+C:\Users\cfeli\source\repos\23098660FelipeConsorteExAula3\23098660FelipeConsorteExAula3\obj\Debug\23098660FelipeConsorteExAula3.pdb
+C:\Users\cfeli\source\repos\23098660FelipeConsorteExAula3\23098660FelipeConsorteExAula3\obj\Debug\_23098660FelipeConsorteExAula3.Assunto.resources
+C:\Users\cfeli\source\repos\23098660FelipeConsorteExAula3\23098660FelipeConsorteExAula3\obj\Debug\_23098660FelipeConsorteExAula3.Livros.resources
+C:\Users\cfeli\source\repos\23098660FelipeConsorteExAula3\23098660FelipeConsorteExAula3\obj\Debug\_23098660FelipeConsorteExAula3.Sobre.resources
